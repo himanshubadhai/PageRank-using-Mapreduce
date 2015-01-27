@@ -1,0 +1,3 @@
+PageA,0.5	PageM,PageY
+PageY,0.5	PageA,PageY
+PageM,0.5	PageA
